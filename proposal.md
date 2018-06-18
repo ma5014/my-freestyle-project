@@ -17,7 +17,7 @@ Outputs: outputs in the format of US dollars and strings
 
 Technology requirements:
 APi 
-sudo pip install googlefinance (to access data on current market trades, either real time or delayed and historical information). *NASDAQ website for downloading the number of companies.
+Alpha stock advantage (to access data on current market trades, either real time or delayed and historical information). *NASDAQ website for downloading the number of companies.
 
 Python package requirements
 
