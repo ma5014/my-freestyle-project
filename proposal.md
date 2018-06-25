@@ -22,7 +22,7 @@ Python Package Requirements
 I used googlefinance_client package to download the S&P 500 close price data 
 get_closing_data() was used to retrieve the data 
 
-#Packages 
+# Packages 
  Following packages were used in the project 
 Numpy
 Pandas
