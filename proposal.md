@@ -24,9 +24,13 @@ get_closing_data() was used to retrieve the data
 
 # Packages 
  Following packages were used in the project 
+
 Numpy
+
 Pandas
+
 Matplotlib
+
 Googlefinance_client
 
 # Hardware Requirements
